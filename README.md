@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Thuto Nkopane 👋</h1>
 <h3 align="center">IT Support • IT Technician • Cybersecurity</h3>
 
 <p align="center">
@@ -18,42 +18,12 @@ I'm looking for an entry-level role in IT, such as **IT Support, IT Technician, 
 - 💬 Ask me about: cybersecurity, troubleshooting, and how I approach problems
 
 ## 🚀 Projects
+Full write-ups for each project live on my portfolio site: YOUR_USERNAME.github.io
 
-### 🚨 SOC Incident Response: Three Shift Reports
-Triaged alerts, separated true positives from benign activity, built incident timelines and wrote containment and recovery plans.
-
-- **Shift 1:** Dropper/loader on a workstation (a fake "design suite" zip leading to a masquerading process tree with a config file). Recommended isolation, process termination, fleet sweep and user interview.
-- **Shift 2:** Full attack chain, from VPN password spray with no MFA, to LSASS credential dump, lateral movement to a domain controller, ~500 MB of finance data exfiltrated, and persistence (rogue admin account, SYSTEM scheduled task, RDP enabled). Every step mapped to MITRE ATT&CK.
-- **Shift 3:** Ransomware spreading over SMB to three hosts. Traced patient zero to a dormant scheduled task left by an earlier intrusion, explained why the patch reboot only *triggered* it, and ordered containment by urgency (isolate, block C2, pause rollout, preserve evidence, remediate).
-
-**Skills shown:** alert triage, timeline reconstruction, root cause analysis, containment planning, MITRE ATT&CK mapping, recommendations.
-
-### 🦠 Malware Analysis: Static & Dynamic Report
-Analysed a provided Windows .NET sample (identified via VirusTotal and MalwareBazaar as AsyncRAT/XWorm family) in an isolated VM.
-
-- **Static:** file type by signature, MD5/SHA-1/SHA-256, PE headers and compile timestamp, section entropy, import table, and strings (found an anti-sandbox hosting check). Concluded the sample used managed-code obfuscation rather than a native packer.
-- **Dynamic:** isolated Windows 10 VM with a clean snapshot, host-only networking, and System Informer, Wireshark and Regshot monitoring. When no execution was observed, I troubleshot the lab (.NET runtime) and documented two confidence-rated explanations rather than overclaiming.
-- **Output:** IoC table, STIX 2.1 bundle, ATT&CK mapping, detection recommendations.
-
-**Skills shown:** safe malware handling, PE analysis, hashing and reputation lookups, IoC extraction, STIX 2.1, honest reporting of limitations.
-
-### 🛒 Web Application Penetration Test: NahamStore
-Tested an e-commerce lab environment (TryHackMe) against the OWASP Top 10 and delivered an executive-style findings deck with a remediation roadmap.
-
-- **10 confirmed findings (7 High, 3 Medium):** reflected and stored XSS, two open redirects, two IDORs, CSRF with an unenforced token, SSRF with a filter bypass, LFI via path traversal, and XXE.
-- Showed how open redirect, IDOR and stored XSS **chain** into account takeover and data exposure.
-- Each finding includes the request, payload, business impact, CWE/OWASP mapping and a specific fix, plus a 7 / 30 / 90-day roadmap.
-
-**Tools:** Burp Suite, subfinder, ffuf, gobuster, Arjun, CyberChef
-
-### 🏦 PyBank: Command-Line ATM System (Python)
-A multi-module Python app with registration, login, deposits, withdrawals, transfers and statements.
-
-- Object-oriented design split across account, transaction and main modules
-- PIN hashing with SHA-256, input validation, a 3-attempt login limit, and CSV-based audit logs for logins and transactions
-
-### 🐍 Python Practice
-Small scripts that built my fundamentals: FizzBuzz, a tip calculator and a cheerleader program (loops, conditionals, string handling, user input).
+🚨 SOC incident response (three shift reports)
+🦠 Malware analysis (static and dynamic)
+🛒 Web application penetration test
+🏦 PyBank, a command-line ATM in Python
 
 ## 🛡️ Key Skills
 
@@ -78,16 +48,14 @@ Small scripts that built my fundamentals: FizzBuzz, a tip calculator and a cheer
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Also used: System Informer (Process Hacker), Regshot, pefile, readpe, pescan, exiftool, MalwareBazaar, ffuf, gobuster, subfinder, Arjun, CyberChef, 7-Zip
 
 ## 🏆 Education & Training
 
-- 🎓 Zaio Cybersecurity Bootcamp ([Year])
-- 🧪 TryHackMe: History of Malware, Malware Introductory, Basics of Malware RE, Basic Static Analysis, Basic Dynamic Analysis, NahamStore
-- 📜 [CompTIA Security+ / other certification: in progress or completed]
+- 🎓 Cybersecurity Bootcamp at Zaio Institute of Technology (2026)
+- 📜 ALX Cybersecurity program (2026)
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🧠 [TryHackMe Profile](your-tryhackme-url)
+- 💼 [LinkedIn](www.linkedin.com/in/thuto-nkopane-383a32221)
+- 📧 [your.email@example.com](mailto:thutonkopane08@gmail.com)
+- 🧠 [TryHackMe Profile](https://tryhackme.com/p/thutonkopane08?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=72180b487cce&utm_source=copy&share_date=2026-11-07&sharerId=6975f51f5fcf526f4d87358a)
