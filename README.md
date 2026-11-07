@@ -56,6 +56,6 @@ Full write-ups for each project live on my portfolio site: YOUR_USERNAME.github.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/thuto-nkopane-383a32221)
-- 📧 [your.email@example.com](mailto:thutonkopane08@gmail.com)
-- 🧠 [TryHackMe Profile](https://tryhackme.com/p/thutonkopane08?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=72180b487cce&utm_source=copy&share_date=2026-11-07&sharerId=6975f51f5fcf526f4d87358a)
+- 💼 LinkedIn: www.linkedin.com/in/thuto-nkopane-383a32221)
+- 📧 mailto: thutonkopane08@gmail.com
+- 🧠 TryHackMe Profile: https://tryhackme.com/p/thutonkopane08?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=72180b487cce&utm_source=copy&share_date=2026-11-07&sharerId=6975f51f5fcf526f4d87358a
