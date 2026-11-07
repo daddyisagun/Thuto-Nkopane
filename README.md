@@ -1,29 +1,24 @@
 <h1 align="center">Hi, I'm Thuto Nkopane 👋</h1>
-<h3 align="center">IT Support • IT Technician • Cybersecurity</h3>
+<h3 align="center">IT Support/Technician • Cybersecurity</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-IT%20%26%20Cybersecurity-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-[City,%20Country]-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-[Johannesburg,%20South Africa]-lightgrey?style=for-the-badge" />
 </p>
 
 ## 👤 About Me
 
-I'm a recent graduate of the **Zaio Cybersecurity Bootcamp** with a broad interest in IT and security. I enjoy solving problems, understanding how systems work, and helping people keep their technology running smoothly and safely.
-
+Cybersecurity-certified professional pursuing a career in software and cloud security engineering, with the technical foundation and troubleshooting skills to excel in IT support and technician roles. I'm a recent graduate at Zaio Institute of Technology with a broad interest in IT and security. I enjoy solving problems, understanding how systems work, and helping people keep their technology running smoothly and safely.
 I'm looking for an entry-level role in IT, such as **IT Support, IT Technician, Help Desk, Security Analyst or SOC Analyst**, where I can keep learning and contribute from day one.
 
-- 🔭 Currently learning: [e.g. CompTIA A+, Security+, networking, cloud fundamentals]
-- 🧪 I practise on: TryHackMe
-- 💬 Ask me about: cybersecurity, troubleshooting, and how I approach problems
-
 ## 🚀 Projects
-Full write-ups for each project live on my portfolio site: YOUR_USERNAME.github.io
+Full write-ups for each project on the above html file: projectsforthuto
 
-🚨 SOC incident response (three shift reports)
-🦠 Malware analysis (static and dynamic)
-🛒 Web application penetration test
-🏦 PyBank, a command-line ATM in Python
+-🚨 SOC incident response (three shift reports)
+-🦠 Malware analysis (static and dynamic)
+-🛒 Web application penetration test
+-🏦 PyBank, a command-line ATM in Python
 
 ## 🛡️ Key Skills
 
