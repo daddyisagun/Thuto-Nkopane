@@ -13,7 +13,7 @@ Cybersecurity-certified professional pursuing a career in software and cloud sec
 I'm looking for an entry-level role in IT, such as **IT Support, IT Technician, Help Desk, Security Analyst or SOC Analyst**, where I can keep learning and contribute from day one.
 
 ## 🚀 Projects
-Full write-ups for each project on the above html file: projectsforthuto
+Full write-ups for each project on live webpage: https://thuto08.github.io/
 
 -🚨 SOC incident response (three shift reports)
 -🦠 Malware analysis (static and dynamic)
